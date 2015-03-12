@@ -1,0 +1,2 @@
+# myboot
+transport uboot
